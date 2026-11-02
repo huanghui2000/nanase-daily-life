@@ -1,16 +1,6 @@
-<div align="center">
-
-# 七瀬の日常
-
-</div>
-
 住在东京的16岁高中女生。
 喜欢猫、音游、粗点心，还有傍晚河堤上的晚霞。
 家里的茶白猫 **むぎ**，偏偏喜欢睡在她的讲义上。
-
-<br clear="both" />
-
-## 框架
 
 ![框架](docs/assets/framework-screenshot.png)
 
