@@ -4,8 +4,6 @@
 
 </div>
 
-<img align="right" src="docs/assets/nanase-koharu.png" width="300" alt="七濑こはる" />
-
 住在东京的16岁高中女生。
 喜欢猫、音游、粗点心，还有傍晚河堤上的晚霞。
 家里的茶白猫 **むぎ**，偏偏喜欢睡在她的讲义上。
