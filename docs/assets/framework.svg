@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title description">
+<title id="title">七濑的日常生活 · 平台无关的 Chat 框架</title>
+<desc id="description">文字和图片进入会话队列，经过注意、理解、三候选、匿名审核与执行。人格、生活、共同经历按需供给；图片观察、生成和交付各有独立接口。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#78909a"/></marker></defs>
+<rect width="1440" height="900" rx="26" fill="#faf8f2"/>
+<style>text{font-family:Inter,"PingFang SC","Microsoft YaHei",sans-serif;fill:#293e48}.head{font-size:32px;font-weight:700}.sub{font-size:17px;fill:#71838a}.title{font-size:20px;font-weight:650}.body{font-size:15px;fill:#647980}.small{font-size:13px;fill:#71838a}.edge{fill:none;stroke:#78909a;stroke-width:2;marker-end:url(#arrow)}.soft{stroke-dasharray:6 5;stroke:#99aaa4}</style>
+<text x="60" y="70" class="head">七濑的日常生活</text>
+<text x="60" y="105" class="sub">以 Chat 为入口，让人格、共同经历与生活状态参与每一次交流</text>
+<rect x="60" y="150" width="400" height="122" rx="16" fill="#f4ece0" stroke="#dce3df"/>
+<text x="78" y="185" class="title">她是谁</text>
+<text x="78" y="215" class="body">人格习惯 · 行为契约 · 虚构背景</text>
+<text x="78" y="238" class="body">按关系与知情范围取材</text>
+<rect x="500" y="150" width="400" height="122" rx="16" fill="#eaf1e9" stroke="#dce3df"/>
+<text x="518" y="185" class="title">她的生活</text>
+<text x="518" y="215" class="body">日程事件 · 任务 · 睡眠归档</text>
+<text x="518" y="238" class="body">生活真值与角色已知事实分别管理</text>
+<rect x="940" y="150" width="400" height="122" rx="16" fill="#eaf0f6" stroke="#dce3df"/>
+<text x="958" y="185" class="title">你们的共同经历</text>
+<text x="958" y="215" class="body">实际对话 · 已说事实 · 记忆召回</text>
+<text x="958" y="238" class="body">首次启动为空白本地库</text>
+<path d="M260 272 V310 H702 V355" class="edge soft"/>
+<path d="M700 272 V355" class="edge soft"/>
+<path d="M1140 272 V310 H702" class="edge soft"/>
+<text x="60" y="334" class="small">对话主线</text>
+<rect x="60" y="355" width="168" height="128" rx="16" fill="#ffffff" stroke="#dce3df"/>
+<text x="78" y="390" class="title">Chat 输入</text>
+<text x="78" y="420" class="body">文字 · 本地图片</text>
+<path d="M228 419 H245" class="edge"/>
+<rect x="246" y="355" width="168" height="128" rx="16" fill="#ffffff" stroke="#dce3df"/>
+<text x="264" y="390" class="title">会话管理</text>
+<text x="264" y="420" class="body">队列 · 连发 · 撤回</text>
+<path d="M414 419 H431" class="edge"/>
+<rect x="432" y="355" width="168" height="128" rx="16" fill="#f0f5f3" stroke="#dce3df"/>
+<text x="450" y="390" class="title">注意与参与</text>
+<text x="450" y="420" class="body">看通知 · 决定查看</text>
+<path d="M600 419 H617" class="edge"/>
+<rect x="618" y="355" width="168" height="128" rx="16" fill="#f0f5f3" stroke="#dce3df"/>
+<text x="636" y="390" class="title">理解与取材</text>
+<text x="636" y="420" class="body">按需查询 · 决定回应</text>
+<path d="M786 419 H803" class="edge"/>
+<rect x="804" y="355" width="168" height="128" rx="16" fill="#f0f5f3" stroke="#dce3df"/>
+<text x="822" y="390" class="title">独立候选</text>
+<text x="822" y="420" class="body">三份并发生成</text>
+<path d="M972 419 H989" class="edge"/>
+<rect x="990" y="355" width="168" height="128" rx="16" fill="#f0f5f3" stroke="#dce3df"/>
+<text x="1008" y="390" class="title">匿名审核</text>
+<text x="1008" y="420" class="body">打乱 · 选择或修订</text>
+<path d="M1158 419 H1175" class="edge"/>
+<rect x="1176" y="355" width="168" height="128" rx="16" fill="#ffffff" stroke="#dce3df"/>
+<text x="1194" y="390" class="title">有序执行</text>
+<text x="1194" y="420" class="body">文字/图片 · 回执</text>
+<text x="60" y="521" class="body">新输入与状态变化使旧版本失效；只有实际交付成功的结果才进入已说历史。</text>
+<rect x="60" y="625" width="270" height="142" rx="16" fill="#eaf0f6" stroke="#dce3df"/>
+<text x="78" y="660" class="title">图片观察接口</text>
+<text x="78" y="690" class="body">图片字节 → 可见内容与不确定性</text>
+<text x="78" y="713" class="body">独立替换视觉后端</text>
+<rect x="365" y="625" width="270" height="142" rx="16" fill="#f4ece0" stroke="#dce3df"/>
+<text x="383" y="660" class="title">图片生成接口</text>
+<text x="383" y="690" class="body">角色意图 → 图片字节</text>
+<text x="383" y="713" class="body">只生成审核选中的计划</text>
+<rect x="670" y="625" width="270" height="142" rx="16" fill="#eaf1e9" stroke="#dce3df"/>
+<text x="688" y="660" class="title">资产与结果检查</text>
+<text x="688" y="690" class="body">解码规范化 · 隔离 · 配额</text>
+<text x="688" y="713" class="body">生成与消息交付分开记账</text>
+<rect x="1115" y="625" width="228" height="142" rx="16" fill="#ffffff" stroke="#dce3df"/>
+<text x="1133" y="660" class="title">Chat 呈现</text>
+<text x="1133" y="690" class="body">文字与图片按序出现</text>
+<text x="1133" y="713" class="body">本地会话保存回执</text>
+<path d="M144 483 V565 H120 V624" class="edge"/>
+<path d="M260 625 V578 H330 V483" class="edge"/>
+<path d="M1260 483 V555 H500 V624" class="edge"/>
+<path d="M635 696 H669" class="edge"/>
+<path d="M940 696 H1114" class="edge"/>
+<path d="M1315 483 V624" class="edge"/>
+<text x="365" y="599" class="small">接口只传领域意图、图片字节和资产 ID</text>
+<rect x="60" y="812" width="1280" height="46" rx="12" fill="#eeeee7"/>
+<text x="80" y="841" class="body">源码资源：虚构角色定义、初始示例日程与无密钥配置。运行产生的聊天、数据库、图片与账本不随源码交付。</text>
+</svg>
