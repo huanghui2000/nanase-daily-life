@@ -2,7 +2,7 @@
 喜欢猫、音游、粗点心，还有傍晚河堤上的晚霞。
 家里的茶白猫 **むぎ**，偏偏喜欢睡在她的讲义上。
 
-![框架](docs/assets/framework-screenshot.png)
+<img width="1538" height="945" alt="image" src="https://github.com/user-attachments/assets/be838d69-0cf4-4b43-8aea-87529a3b9003" />
 
 ## 未来的构思
 
